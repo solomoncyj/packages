@@ -1,0 +1,1 @@
+rpm.version(gh("yang991178/fluent-reader"));
